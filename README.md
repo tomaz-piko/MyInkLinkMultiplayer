@@ -7,9 +7,10 @@ Users must first register then login to be able to join or create a new game.
 Product pictures included in folder **images**
 
 ## Technology
-NodeJS and express for backend server. 
-SocketIO for realtime multiplayer.
-React and bootstrap for frontend.
+NodeJS and express for backend server. <br>
+MongoDB and mongo atlas for database web hosting <br>
+SocketIO for realtime multiplayer. <br>
+React and bootstrap for frontend. <br>
 
 ## Additional notes
 This is a minimum viable product used for a school assignment. Hence the emphasis on the functionality and backend instead of frontend.
