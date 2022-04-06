@@ -2,7 +2,7 @@
   "name": "myinklink",
   "version": "1.0.0",
   "description": "My ink link project",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js",
@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "concurrently": "^7.1.0",
+    "i": "^0.3.7",
     "nodemon": "^2.0.15"
   }
 }
